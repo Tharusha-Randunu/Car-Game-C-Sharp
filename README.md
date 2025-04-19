@@ -11,6 +11,4 @@ The **Car Racing Game** is an exciting 2D racing game developed using **C#**. Th
 ## 🚀 Technologies Used  
 - **C#** – Core programming language  
 
-   ```sh
-   git clone https://github.com/your-username/car-racing-game.git
-   cd car-racing-game
+ 
